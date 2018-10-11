@@ -6,4 +6,13 @@
 ### Contributors
 
 - [Rahul-Vijay](https://github.com/Rahul-Vijay)
+
+- [Taran Vohra](https://github.com/taranvohra)
+
+- [Meet-Ranoliya](https://github.com/memr5)
+
+- [Mariana Mendes](https://github.com/marimendes)
+
 - [dialv](https://github.com/dialv)
+
+
